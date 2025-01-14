@@ -82,8 +82,8 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 For any queries, feel free to reach out:
 - **Name**: Aryan Tyagi
-- **Email**: [your-email@example.com]
-- **LinkedIn**: [your-linkedin-profile](https://linkedin.com/in/your-profile)
+- **Email**: tyagiaryan4747@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/aryxntyagi/
 
 ---
 **Thank you for exploring this project! Your feedback and suggestions are highly appreciated.**
